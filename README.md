@@ -27,7 +27,7 @@ Here's a walkthrough of implemented user stories:
 
 I can't figure out why my gif is not showing up in the README, sorry for the inconvenience. If you click on the link it redirects correctly to the gif:
 
-http://g.recordit.co/B05ArahLEd.gif
+http://g.recordit.co/dFcRb5Mag0.gif
 
 
 

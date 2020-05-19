@@ -19,8 +19,6 @@ The following **bonus** features are implemented:
 - [ ] Profile pictures are shown for posts and comments. (2pts)
 
 
-<img src='http://g.recordit.co/B05ArahLEd.gif' width='' alt='Video Walkthrough' />
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:

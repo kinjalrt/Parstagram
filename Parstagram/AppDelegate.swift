@@ -13,7 +13,6 @@ import Parse
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         
@@ -24,6 +23,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             })
         )
         
+//        if PFUser.current() != nil{
+//            let main = UIStoryboard(name: "Main", bundle: nil)
+//            let feedNavigationController = main.instantiateViewController(identifier: "FeedNavigationController")
+//            
+//            window?.rootViewController = feedNavigationController
+//            
+//        }
         
         return true
     }

@@ -18,16 +18,18 @@ The following **bonus** features are implemented:
 - [ ] User can add a profile picture. (2pts)
 - [ ] Profile pictures are shown for posts and comments. (2pts)
 
+
+<img src='http://g.recordit.co/B05ArahLEd.gif' width='' alt='Video Walkthrough' />
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/B05ArahLEd.gif' width='' alt='Video Walkthrough' />
 
+I can't figure out why my gif is not showing up in the README, sorry for the inconvenience. If you click on the link it redirects correctly to the gif:
 
 http://g.recordit.co/B05ArahLEd.gif
-
-<img src='http://g.recordit.co/B05ArahLEd.gif' width='' alt='Video Walkthrough' />
 
 
 
